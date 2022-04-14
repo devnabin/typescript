@@ -1,6 +1,8 @@
 import './style.css'
 
-import './typescript learning/1TsBasisAndBasisTypes/Day1.ts'
+// import './typescript learning/1TsBasisAndBasisTypes/Day1.ts'
+import './typescript learning/1TsBasisAndBasisTypes/Day2.ts'
+
 
 
 
