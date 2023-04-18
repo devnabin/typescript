@@ -1,4 +1,4 @@
-// undefined retrun type must have return keyword
+// undefined data type must have return keyword
 function myFunction(): undefined {
     console.log('MyFunction is running...');
     return
