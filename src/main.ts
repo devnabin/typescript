@@ -1,6 +1,6 @@
 
-// import './module1continue/1typeInference.ts'
-// import './module1continue/2ObjectTypes'
+// import './module-1/1typeInference.ts'
+// import './module-1/2ObjectTypes'
 
 
 
