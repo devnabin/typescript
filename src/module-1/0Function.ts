@@ -48,10 +48,9 @@ value(9,4) // ❌this will not work
 */
 
 //To resolve this issuse lets analyze 3 cases
-// case1
 let value1: Function; //letter f should be capital
 let value2: () => number; //here number is return type
-let value3: (a: number, b: number) => number; // ✔️ best way to define func 
+let value3: (a: number, b: number) => number; // ✨✔️ best way to define func 
 
 // case 6
 function example7(
