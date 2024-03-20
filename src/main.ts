@@ -1,9 +1,4 @@
-// import './module-1/0Function'
-// import './module-1/1typeInference.ts'
-// import './module-1/2ObjectTypes'
-
-
-
+import './module-1/module1'
 
 import './style.css'
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
