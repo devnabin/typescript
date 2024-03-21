@@ -1,4 +1,4 @@
-import './module-1/module1'
+import './module-1/Module1Wrapper'
 
 import './style.css'
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
